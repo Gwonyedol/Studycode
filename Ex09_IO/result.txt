@@ -1,0 +1,4 @@
+hello=C:\Temp\a.txt
+hello=C:\Temp\Hello.class
+hello=C:\Temp\Hello.java
+hello=C:\Temp\new1.txt
